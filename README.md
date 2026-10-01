@@ -1,4 +1,4 @@
-# 🚀 Simple Node.js CI/CD Pipeline
+# 🚀 Simple Node.js GitHub Action CI/CD Pipeline
 
 A simple **Node.js web application** with a complete automated **CI/CD pipeline** using **GitHub Actions, Docker, and Docker Hub**.
 
